@@ -12,7 +12,9 @@ import HelloWorld from '@/components/HelloWorld.vue'
 export default {
   name: 'home',
   components: {
-    HelloWorld12345ddd11
+
+    HelloWorld12345dddqq
+
   }
 }
 </script>
